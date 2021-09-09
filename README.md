@@ -18,11 +18,11 @@ you incur from this.***
 * Empty target folder before copying files
 
 ## Usage
-Upon clicking on the "Shuffle Sync" button, the application
+* Upon clicking on the "Shuffle Sync" button, the application
 will check and warn for the following:
-* if drive is a FIXED drive (usually hard drives)
-* if drive has a total capacity of more than 64GB
-* if the "delete all files" checkbox is marked
+    * if drive is a FIXED drive (usually hard drives)
+    * if drive has a total capacity of more than 64GB
+    * if the "delete all files" checkbox is marked
 
 If the user approves of all warnings, the application will
 proceed to sync files from the source to the destination
